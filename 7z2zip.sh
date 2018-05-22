@@ -1,3 +1,4 @@
+#!/bin/sh
 echo "" > log.txt
 mkdir output
 for i in *.7z
