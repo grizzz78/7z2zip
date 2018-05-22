@@ -14,4 +14,4 @@ do
   rm -fr tmp
   printf "ok\r\n";
 done
-printf "All files written to directory output\r\n"
+printf "All files written to subfolder named output\r\n"
